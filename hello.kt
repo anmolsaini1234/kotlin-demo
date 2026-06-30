@@ -15,6 +15,7 @@ fun main() {
 
     newCar.addCar("Bugatti", "V8", 244)
     println("new update")
+    println("new update from new branch")
     println(newCar.company)
     println(newCar.model)
     println(newCar.topSpeed)
