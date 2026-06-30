@@ -14,7 +14,7 @@ fun main() {
     var newCar: Car = Car()
 
     newCar.addCar("Bugatti", "V8", 244)
-
+    println("new update")
     println(newCar.company)
     println(newCar.model)
     println(newCar.topSpeed)
